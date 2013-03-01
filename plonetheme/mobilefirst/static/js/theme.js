@@ -1,0 +1,5 @@
+
+function initializeplonethememobilefirst(){
+
+}
+jQuery(initializeplonethememobilefirst);
